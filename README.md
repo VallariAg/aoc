@@ -11,4 +11,5 @@ Solutions in python:
 - [Day 2](./2023/Day2/main.py) (trick: regex)
 - [Day 3](./2023/Day3/main.py) (trick: regex)
 - [Day 4](./2023/Day4/main.py)
+- Day 5: [Part 1](./2023/Day5/main.py) | [Part 2](./2023/Day5/part2.py) (trick for part 2: brute force bottom-up)
 
