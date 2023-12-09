@@ -15,4 +15,5 @@ Solutions in python:
 - [Day 6](./2023/Day6/main.py)
 - [Day 7](./2023/Day7/main.py)
 - [Day 8](./2023/Day8/main.py)
+- [Day 9](./2023/Day9/main.py)
 
